@@ -63,3 +63,31 @@ To check remote url
 '''
 git remote -v
 '''
+
+
+Build Docker Image
+
+'''
+docker build -t <image_name>:<tag_name> .
+'''
+Note : image_name should always lower case 
+
+To list docker images 
+'''
+docker images
+'''
+
+Run Docker Image
+
+'''
+docker run -p 5000:5000 -e PORT=5000 <image ID>
+'''
+To check running containers in Docker
+'''
+docker ps
+'''
+
+To stop docker container
+
+'''
+docer stop <container_ID>
