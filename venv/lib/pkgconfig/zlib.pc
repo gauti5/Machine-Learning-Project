@@ -1,0 +1,13 @@
+prefix=/Users/siddanthapusandeep/Machine-Learning-Project/venv
+exec_prefix=/Users/siddanthapusandeep/Machine-Learning-Project/venv
+libdir=/Users/siddanthapusandeep/Machine-Learning-Project/venv/lib
+sharedlibdir=/Users/siddanthapusandeep/Machine-Learning-Project/venv/lib
+includedir=/Users/siddanthapusandeep/Machine-Learning-Project/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
