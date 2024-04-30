@@ -32,3 +32,34 @@ or
 '''
 git add .
 '''
+
+To check the Git Status
+
+'''
+git status
+'''
+
+To check all version maintained by git 
+
+'''
+git log
+'''
+
+
+To create version/commit all the changes by git 
+
+'''
+git commit -m "Any Commit Message"
+'''
+
+To send versions or changes to github
+
+'''
+git push origin main
+'''
+
+To check remote url
+
+'''
+git remote -v
+'''
