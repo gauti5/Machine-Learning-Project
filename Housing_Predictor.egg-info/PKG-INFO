@@ -3,8 +3,3 @@ Name: Housing-Predictor
 Version: 0.0.1
 Summary: This is a Machine Learning Project
 Author: Sandeep
-Requires-Dist: Flask
-Requires-Dist: gunicorn
-Requires-Dist: sklearn
-Requires-Dist: pandas
-Requires-Dist: numpy
