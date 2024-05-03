@@ -1,0 +1,11 @@
+[2024-05-04 00:05:29,587] werkzeug - WARNING -  * Debugger is active!
+[2024-05-04 00:05:29,594] werkzeug - INFO -  * Debugger PIN: 104-583-098
+[2024-05-04 00:06:16,522] root - INFO - We are testing custom exception
+[2024-05-04 00:06:16,523] root - INFO - We are testing logging module
+[2024-05-04 00:06:16,523] werkzeug - INFO - 127.0.0.1 - - [04/May/2024 00:06:16] "GET / HTTP/1.1" 200 -
+[2024-05-04 00:06:18,242] root - INFO - We are testing custom exception
+[2024-05-04 00:06:18,242] root - INFO - We are testing logging module
+[2024-05-04 00:06:18,243] werkzeug - INFO - 127.0.0.1 - - [04/May/2024 00:06:18] "GET / HTTP/1.1" 200 -
+[2024-05-04 00:06:18,441] root - INFO - We are testing custom exception
+[2024-05-04 00:06:18,442] root - INFO - We are testing logging module
+[2024-05-04 00:06:18,442] werkzeug - INFO - 127.0.0.1 - - [04/May/2024 00:06:18] "GET / HTTP/1.1" 200 -
